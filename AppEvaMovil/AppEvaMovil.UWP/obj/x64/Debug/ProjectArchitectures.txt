@@ -1,0 +1,1 @@
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.UWP\AppEvaMovil.UWP.csproj;x64

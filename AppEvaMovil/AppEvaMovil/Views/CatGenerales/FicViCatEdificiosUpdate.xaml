@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEvaMovil.Views.CatGenerales.FicViCatEdificiosUpdate"
+             xmlns:numeric="clr-namespace:Syncfusion.SfNumericUpDown.XForms;assembly=Syncfusion.SfNumericUpDown.XForms"
+             Title="Actualizar edificio">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout VerticalOptions="StartAndExpand"
+            Padding="20">
+                <Label Text="IdEdificio"/>
+                <Entry Text="{Binding Edificio.IdEdificio}" IsEnabled="False"/>
+                <Label Text="Alias"/>
+                <Entry Text="{Binding Edificio.Alias}"/>
+
+                <Label Text="Descripcion"/>
+                <Entry Text="{Binding Edificio.DesEdificio}"/>
+
+
+                <Label Text="Prioridad"/>
+                <numeric:SfNumericUpDown 
+                StepValue="1"
+                x:Name="Prior"
+                AllowNull="false"
+                Minimum="0"
+                Maximum="100"
+                SpinButtonAlignment="Right"
+                ValueChanged="Handle_ValueChanged" />
+
+                <Label Text="Clave"/>
+                <Entry Text="{Binding Edificio.Clave}"/>
+
+                <Label Text="Activo: "/>
+                <Switch IsToggled="{Binding Edificio.Activo}"></Switch>
+
+                <Label Text="Borrado: "/>
+                <Switch IsToggled="{Binding Edificio.Borrado}"></Switch>
+
+                <Button Text="Actualizar"  Command="{Binding FicMetUpdateCommand}"/>
+              
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

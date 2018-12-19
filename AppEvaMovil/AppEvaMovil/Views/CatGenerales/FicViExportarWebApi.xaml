@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppEvaMovil.Views.CatGenerales.FicViExportarWebApi">
+    <ContentPage.Content>
+        <ScrollView >
+            <StackLayout Padding="10" Orientation="Vertical">
+                <StackLayout Padding="10" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="LightGray">
+                    <Label Text="{Binding FicTextAreaExpInv}" FontAttributes="Bold"/>
+                </StackLayout>
+                <StackLayout Padding="10" Orientation="Horizontal" VerticalOptions="End" HorizontalOptions="Center">
+                    <Button Text="EXP. CATALOGO INV."  Command="{Binding FicMetExpoInv}"></Button>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

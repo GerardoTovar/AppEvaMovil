@@ -1,0 +1,197 @@
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.iOS.exe
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.iOS.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Data.Sqlite.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Options.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Primitives.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Remotion.Linq.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Data.SQLite.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Interactive.Async.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.dll.mdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\optimized\
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csprojAssemblyReference.cache
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csproj.CoreCompileInputs.cache
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csproj.CopyComplete
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.exe
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\optimized\
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csprojAssemblyReference.cache
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csproj.CoreCompileInputs.cache
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.exe
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.iOS.exe
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.iOS.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Autofac.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Options.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Remotion.Linq.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.sqlite3.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.GridCommon.Portable.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.XForms.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.XForms.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfAutoComplete.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.Data.Portable.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfDataGrid.XForms.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfDataGrid.XForms.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericTextBox.XForms.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericTextBox.XForms.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericTextBox.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.XForms.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Syncfusion.SfNumericUpDown.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Buffers.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Collections.Immutable.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Data.SQLite.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Interactive.Async.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Memory.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Net.Http.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\bin\iPhone\Debug\AppEvaMovil.dll.mdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil.iOS\obj\iPhone\Debug\AppEvaMovil.iOS.csproj.CopyComplete

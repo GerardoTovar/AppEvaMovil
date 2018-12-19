@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:syncfusion="clr-namespace:Syncfusion.SfDataGrid.XForms;assembly=Syncfusion.SfDataGrid.XForms"
+             x:Class="AppEvaMovil.Views.CatGenerales.FicViCatEdificiosList">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem 
+            Name="Nuevo Edificio"
+            Command="{Binding FicMetNewCommand}"
+            >
+        </ToolbarItem>
+        <ToolbarItem
+            Name="Editar Edificio"
+            Command="{Binding FicMetUpdateCommand}"
+            ></ToolbarItem>
+        <ToolbarItem
+            Name="Detalle Edificio"
+            ></ToolbarItem>
+        <ToolbarItem 
+            Name="Borrar Edificio"
+            Clicked="FicMetDeleteCommand">
+            <ToolbarItem.Icon>
+                <OnPlatform x:TypeArguments="FileImageSource">
+                    <On Platform="Android, iOS" Value="ic_delete" />
+                    <On Platform="UWP" Value="Assets/ic_delete.png" />
+                </OnPlatform>
+            </ToolbarItem.Icon>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <SearchBar   
+                HorizontalOptions="FillAndExpand"
+                Placeholder="Buscar informacion.."
+                PlaceholderColor="Red"
+                x:Name="FicSearchBar"/>
+
+            <syncfusion:SfDataGrid
+                VerticalOptions="FillAndExpand"
+                ColumnSizer="Star"
+                AutoGenerateColumns="False"
+                AllowSorting="False"
+                ItemsSource="{Binding FicSfDataGrid_ItemSource_CatEdificios}"
+                SelectedItem="{Binding FicSfDataGrid_SelectItem_CatEdificios}"
+                SelectionMode="Single"
+                x:Name="dataGrid">
+                <syncfusion:SfDataGrid.Columns x:TypeArguments="syncfusion:Columns">
+                    <syncfusion:GridTextColumn HeaderText="IdEdificio" MappingName="IdEdificio" />
+                    <syncfusion:GridTextColumn HeaderText="Alias" MappingName="Alias" />
+                    <syncfusion:GridTextColumn HeaderText="Descripcion" MappingName="DesEdificio" />
+                    <syncfusion:GridTextColumn HeaderText="Clave"  MappingName="Clave" />
+                </syncfusion:SfDataGrid.Columns>
+            </syncfusion:SfDataGrid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,78 @@
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.deps.json
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csprojAssemblyReference.cache
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csproj.CoreCompileInputs.cache
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfoInputs.cache
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfo.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosList.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageDetail.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageMaster.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\Page2.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\Page3.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.deps.json
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csprojAssemblyReference.cache
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosList.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageDetail.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageMaster.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csproj.CoreCompileInputs.cache
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfoInputs.cache
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfo.cs
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Proyectos DAE\Xamrin forms\back\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.deps.json
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csprojAssemblyReference.cache
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosList.xaml.g.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPage.xaml.g.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageDetail.xaml.g.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageMaster.xaml.g.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csproj.CoreCompileInputs.cache
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfoInputs.cache
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfo.cs
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Users\xXGUERRAXx\Documents\MEGAsync\DAE\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.deps.json
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\bin\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csprojAssemblyReference.cache
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosList.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPage.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageDetail.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\Navegacion\FicMasterPageMaster.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.csproj.CoreCompileInputs.cache
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfoInputs.cache
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.AssemblyInfo.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.dll
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\AppEvaMovil.pdb
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosNuevo.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViCatEdificiosUpdate.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViExportarWebApi.xaml.g.cs
+C:\Users\L_Z0K\Desktop\AppEvaMovil\AppEvaMovil\AppEvaMovil\obj\Debug\netstandard2.0\Views\CatGenerales\FicViImportarWebApi.xaml.g.cs
